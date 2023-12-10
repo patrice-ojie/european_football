@@ -1,4 +1,3 @@
---language: sql
 --Team Performance at Home Games
 SELECT Team.team_long_name, Team.team_short_name, Match.season, Match.stage, Match.home_team_goal, Match.away_team_goal
 FROM Match
