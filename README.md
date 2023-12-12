@@ -8,6 +8,7 @@ In this project, I wrote queries to find out information on the following:
 * Goal Difference
 * Average Goals per Match in each League
 * Average Player Rating
+
 A summary of which can be found in the Report file.
 
 ## Installation
